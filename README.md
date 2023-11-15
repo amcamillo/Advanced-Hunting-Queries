@@ -1,7 +1,9 @@
-# Sentinel-scripts
+# Advanced Hunting Queries
 
-A Repo os my Sentinel Extension codes.
+A Repo of my Sentinel / Def XDR queries.
 
 Currently includes:
-- Working Alienvault LogicApp for ingestion of URL, domains, IPV4 indicators.
 - EASM Query for High Vulnerabilities
+
+Deprecated / Removed:
+- Working Alienvault LogicApp for ingestion of URL, domains, IPV4 indicators.
